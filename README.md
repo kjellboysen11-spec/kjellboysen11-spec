@@ -1,4 +1,4 @@
-# Hi, ich bin kjellboysen11-spec! 👋
+# Hi, ich bin kjell👋
 
 Willkommen auf meinem Profil! Ich erstelle Webanwendungen im Frontend und Backend.
 
